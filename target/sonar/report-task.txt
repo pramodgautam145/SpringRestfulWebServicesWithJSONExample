@@ -1,0 +1,6 @@
+projectKey=com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample
+serverUrl=http://localhost:9000
+serverVersion=6.7.1.35068
+dashboardUrl=http://localhost:9000/dashboard/index/com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample
+ceTaskId=AWFSlmriyJrvaBfA0Kfp
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWFSlmriyJrvaBfA0Kfp
